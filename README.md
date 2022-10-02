@@ -153,6 +153,6 @@ addEventListener(
 ### 特别感谢 ：
 
 * [mixool](https://github.com/mixool/)
-* [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
+* [bclswl0827](https://github.com/zrishere/vv2)
 * [yxhit](https://github.com/yxhit)
 * [badafans](https://github.com/badafans/better-cloudflare-ip/tree/20201208)
